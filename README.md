@@ -1,1 +1,3 @@
-# salon_booking_app
+# smart-investor-bot
+Smart Investor Telegram Bot
+ Ese
